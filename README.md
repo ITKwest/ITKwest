@@ -1,4 +1,4 @@
-<h1>Hi, I'm Johnathan, an <a href=https://www.linkedin.com/in/itkwest-powell?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQZ8VS1r2TuGvr08xB9ubFg%3D%3D">IT Professional</a>☺</h1>
+<h1>Hi, I'm Johnathan, an <a href=https://www.linkedin.com/in/itkwest-powell?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQZ8VS1r2TuGvr08xB9ubFg%3D%3D">IT Professional</a>🧑‍🎓</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
